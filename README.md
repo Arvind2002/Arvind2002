@@ -4,7 +4,7 @@ I'm Arvind Ram, a passionate Data Scientist and Analytics enthusiast based in At
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Arvind2002&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Arvind2002&theme=tokyonight&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Arvind2002&theme=tokyonight&hide_border=false)<\br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Arvind2002&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
