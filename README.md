@@ -1,4 +1,6 @@
-## Hi there 👋
+# Hi there 👋  
+I'm Arvind Ram, a passionate Data Scientist and Analytics enthusiast based in Atlanta, Georgia.  
+- 📚 Pursuing an MS in Analytics (Computational Data Analytics) at Georgia Tech. 
 
 <!--
 **Arvind2002/Arvind2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
